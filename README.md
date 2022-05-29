@@ -15,3 +15,5 @@ Expressjs
 Cheerio-Node module for web scraping
 
 page insight API - API for finding web vitals
+
+![Alt text](i.jpg?raw=true "Image of extension finding current tab details")
